@@ -1,0 +1,25 @@
+.box1{
+  font-size: 16px !important;
+  margin: 5px;
+  border-left: 10px solid rgb(154, 156, 28);
+  border-radius: 10px;
+  }
+  .chart{
+    margin: 5px;
+    border-left: 10px solid rgb(154, 156, 28);
+    border-radius: 10px;
+    font-size: 20px;
+  }
+  .card-body{
+    background-color: rgb(159, 232, 153)!important;
+
+  }
+
+  .con1{
+    padding: 10px;
+    border-radius: 50px;
+  }
+
+  .pad{
+    padding-left: 20px;
+  }

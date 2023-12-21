@@ -1,0 +1,121 @@
+.lgn{
+    margin-top: 50px;
+}
+a{
+    font-family:system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.side{
+    font-size: 16px!important;
+}
+
+.navli {
+    background-color: #123456;
+    margin-top: 16px!important;
+    font-family:system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+.navli a:hover{
+    background-color: rgb(55, 53, 77);
+}
+
+.in{
+    border: 1px solid rgb(39, 36, 85);
+}
+
+.form{
+    margin-left: 0 auto;
+
+}
+.container{
+    background-color: #AED6F1;
+}
+body{
+    background-color: #AED6F1;
+    font-size: 16px;
+    font-family:system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+.pli{
+    margin-left: -100px;
+}
+.aborder{
+    border-bottom: 1px solid white;
+    transition: .5s;
+    font-size: 13px;
+}
+.aborder:hover{
+    background-color: rgb(38, 153, 115);
+    font-size: 15px;
+}
+.img{
+    width: 100px;
+}
+
+.pdiv{
+    border-radius: 10px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+/* .scrl{
+    overflow: scroll;
+} */
+
+.table{
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+    font-size: 14px;
+}
+
+.table th {
+    background-color: #AFEEEE;
+    border: 1px solid gray;
+}
+form{
+    font-size: 14px;
+}
+
+@media only screen and (max-width: 768px) {
+    .aborder{
+        font-size: 16px;
+        padding: 5px;
+    }
+    .aborder i{
+        font-size: 16px;
+
+    }
+    .rak{
+        display: block !important;
+    }
+
+    table{
+        font-size: 10px;
+        padding: 0px !important;
+    }
+    .res{
+        padding: 0 !important;
+    }
+    .pad{
+        text-align: left !important;
+    }
+
+  }
+.box1{
+font-size: 50px !important;
+}
+
+#pagination{
+    text-align: center;
+    padding: 10px;
+  }
+  #pagination a{
+    background: #2980b9;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    padding:5px 10px;
+    margin-right: 5px;
+    border-radius: 3px;
+  }
+  #pagination a.active{
+    background: #27ae60;
+  }
+
